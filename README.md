@@ -4,7 +4,7 @@ Actualmente soy un **desarrollador web frontend novato** que aspira convertirse 
 
 🚀 Estoy profundizando mi aprendizaje en la creación de páginas web interactivas. Un ejemplo de esto es mi proyecto llamado **Archivo Hueco**.
 
-![HTML5](https://img.shields.io/badge/HTML?style=flat&color=E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 <!--
 **Niro-xp/Niro-xp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
