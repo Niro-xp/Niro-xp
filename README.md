@@ -1,6 +1,6 @@
 ## 👋 ¡¡Hey hola, soy Niro Xp!!
 
-Soy un desarrollador web novato que maneja de manera intermedia html, javascript y el framework de boostrap. Actualmente estoy profundizando mi aprendizaje en la creación de páginas web interactivas, un ejemplo de esto es mi proyecto llamado Archivo Hueco
+Actualmente soy un desarrollador web frontend novato que aspira convertirse en uno backend. Actualmente estoy profundizando mi aprendizaje en la creación de páginas web interactivas, un ejemplo de esto es mi proyecto llamado Archivo Hueco
 
 <!--
 **Niro-xp/Niro-xp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
