@@ -2,7 +2,7 @@
 
 Actualmente soy un **desarrollador web frontend novato** que aspira convertirse en **backend**
 
-🚀 Estoy profundizando mi aprendizaje en la creación de páginas web interactivas. Un ejemplo de esto es mi proyecto llamado **Archivo Hueco**.
+🚀 Estoy profundizando mi aprendizaje en la creación de páginas web interactivas. Un ejemplo de esto es mi proyecto compartido llamado **Archivo Hueco**.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
